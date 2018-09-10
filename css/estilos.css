@@ -1,0 +1,214 @@
+/* Sección 1  *****************************/
+
+
+#infoindex #texto,  #texto{ 
+	width:40%; 
+	float:left; 
+	padding-left: 150px;
+	padding-top: 50px;
+}
+
+#infoindex #imagen,  #imagen{ 
+	width:40%; 
+	float:right; 
+	padding-right: 60px;
+}
+
+#infoindex #texto h1,  #texto h1{ 
+	box-sizing: border-box;
+    color: rgb(85, 85, 85);
+   font-family: MuseoSlab500Regular;
+   font-size: 36px;
+   line-height: 48px;
+}
+
+#infoindex #texto p,  #texto p{ 
+	box-sizing: border-box;
+    color: rgb(85, 85, 85);
+    font-family: "Open Sans";
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+#infoindex #imagen img,  #imagen img{ width:100%;}
+
+
+@media only screen and (max-width:800px) {
+
+#infoindex{ background-image:none;}
+
+#infoindex #texto,  #texto{ 
+	width:100%; 
+	float:none; 
+	padding:20px; 
+	text-align:center;
+	-webkit-box-sizing: border-box; 
+	-moz-box-sizing: border-box;    
+	box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-text-size-adjust: 100%;
+}
+
+
+#infoindex #imagen,  #imagen{ display:none;}
+
+#infoindex #texto h1,  #texto h1{ 
+	font-size:8vw;
+	margin:0 0 10px 0;
+	padding:0 0 10px 0;
+}
+
+
+#infoindex #texto p,  #texto p{ 
+font-size:14px;
+}
+
+}
+
+/*cerro Sección 1 ****************************/
+/* Sección 2  *****************************/
+
+#texto2{background-color: #59D8B5;}
+
+
+#infoindex2 #texto2 { 
+	width:100%; float:center;
+	display: inline-block;
+}
+
+
+
+#infoindex2 #texto2 h1,  #texto2 h1{ 
+	box-sizing: border-box;
+    color: #735f5f;
+   font-family: MuseoSlab500Regular;
+   font-size: 36px;
+   line-height: 48px;
+   padding-left: 150px;
+}
+
+#infoindex2 #texto2 p,  #texto2 p{ 
+	box-sizing: border-box;
+    color: #847474;
+    font-family: "Open Sans";
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-left: 150px;
+    padding-right: 60px;
+    text-align: justify;
+}
+
+
+@media only screen and (max-width:800px) {
+
+#infoindex2{ background-image:none;}
+
+#infoindex2 #texto2,  #texto2{ 
+	width:100%; 
+	float:none; 
+	padding:0px; 
+	text-align:center;
+	-webkit-box-sizing: border-box; 
+	-moz-box-sizing: border-box;    
+	box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-text-size-adjust: 100%;
+}
+
+
+#infoindex2 #texto2 h1,  #texto2 h1{ 
+	font-size:8vw;
+	margin:0 0 10px 0;
+	padding:0 0 10px 0;
+}
+
+
+#infoindex2 #texto2 p,  #texto2 p{ 
+font-size:14px;
+}
+}
+
+/*cerro Sección 2****************************/
+/* Sección 3  *****************************/
+
+
+#infoindex3 #texto3,  #texto3{ 
+	width:30%; 
+	float:right; 
+	padding-right: 200px;
+	padding-top: 80px;
+	padding-left: 40px;
+}
+
+#infoindex3 #imagen3,  #imagen3{ 
+	width:40%; 
+	float:left; 
+	padding-left: 150px;
+	padding-top: 80px;
+}
+
+#infoindex3 #texto3 h1,  #texto3 h1{ 
+	box-sizing: border-box;
+    color: rgb(85, 85, 85);
+   font-family: MuseoSlab500Regular;
+   font-size: 36px;
+   line-height: 48px;
+}
+
+#infoindex3 #texto3 p,  #texto3 p{ 
+	box-sizing: border-box;
+    color: rgb(85, 85, 85);
+    font-family: "Open Sans";
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+#infoindex3 #imagen3 img,  #imagen3 img{ width:100%;}
+
+
+@media only screen and (max-width:800px) {
+
+#infoindex3{ background-image:none;}
+
+#infoindex3 #texto3,  #texto3{ 
+	width:100%; 
+	float:none; 
+	padding:20px; 
+	text-align:center;
+	-webkit-box-sizing: border-box; 
+	-moz-box-sizing: border-box;    
+	box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-text-size-adjust: 100%;
+}
+
+
+#infoindex3 #imagen3,  #imagen3{ display:none;}
+
+#infoindex3 #texto3 h1,  #texto3 h1{ 
+	font-size:8vw;
+	margin:0 0 10px 0;
+	padding:0 0 10px 0;
+}
+
+
+#infoindex3 #texto3 p,  #texto3 p{ 
+font-size:14px;
+}
+
+}
+
+/*cerro Sección 3 ****************************/
+
